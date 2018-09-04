@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentTracker</string>
+    <string name="terms">Terms</string>
+    <string name="courses">Courses</string>
+    <string name="assessments">Assessments</string>
+    <string name="term_name">term_name</string>
+    <string name="start_date">term_start_date</string>
+    <string name="end_date">term_end_date</string>
+    <string name="save_term">save_term</string>
+</resources>
